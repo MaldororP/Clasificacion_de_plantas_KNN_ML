@@ -1,2 +1,2 @@
 # Clasificacion_de_plantas_KNN_ML
-Implementación un modelo simple de clasificación K-Nearest Neighbors (KNN) para categorizar plantas en el conocido conjunto de datos Iris
+Implementación de un modelo simple de clasificación K-Nearest Neighbors (KNN) para categorizar plantas en el conocido conjunto de datos Iris, el cual contiene características de longitud y anchura de sépalos y pétalos de tres especies diferentes de flores. Mi objetivo fue clasificar correctamente las especies de flores (Iris setosa, Iris versicolor, Iris virginica) en función de sus características morfológicas.
